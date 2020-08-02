@@ -6,6 +6,6 @@
 ## Backend
     create a mongodb atlas instance and get the connection uri (can also locally install)
     cd into backend folder 
-    create .env file (fill out ATLAS_URI and PORT)
+    create .env file (fill out ATLAS_URI)
     npm install
     nodemon server.js

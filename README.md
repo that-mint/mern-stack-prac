@@ -1,7 +1,7 @@
 ## Frontend
     cd into the main file and npm install
     if using WSL or a VM, create .env file and add CHOKIDAR_USEPOLLING=true
-    npm startg
+    npm start
 
 ## Backend
     create a mongodb atlas instance and get the connection uri (can also locally install)
